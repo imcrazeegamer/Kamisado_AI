@@ -5,3 +5,5 @@ experimenting with AI and ML for the classic board game Kamisado, with GUI impla
 
 MinMax W.I.P
 more algorithims to come.
+
+Big Thanks to [Ariel Horwitz](https://github.com/ArielHorwitz) for making the GUI
